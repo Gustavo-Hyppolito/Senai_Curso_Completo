@@ -1,0 +1,26 @@
+{"_e":"root:init","_t":1790183443872,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1790183443879,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790183443893,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790183445850,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790183448664,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790183450813,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790183461409,"atlas":false,"workers":13,"host":"::","port":8081}
+{"_e":"root:init","_t":1790183535360,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1790183535363,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790183535374,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790183535987,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790183536879,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790183537579,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790183548848,"atlas":false,"workers":13,"host":"::","port":8081}
+{"_e":"root:init","_t":1790183651561,"format":"v0-jsonl","version":"57.0.24"}
+{"_e":"env:mode","_t":1790183651565,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790183651582,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790183652689,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790183654242,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790183655435,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790183673852,"atlas":false,"workers":13,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790183959358,"id":"4","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790183959359,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1790183961298,"id":"4","total":1,"ms":1939.3304}
+{"_e":"metro:server_log","_t":1790184474105,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","sdk_gphone64_x86_64 - 16 - API 36","60"]}
+{"_e":"metro:server_log","_t":1790189386016,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","sdk_gphone64_x86_64 - 16 - API 36","60"]}
